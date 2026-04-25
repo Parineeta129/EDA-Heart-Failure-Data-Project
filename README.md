@@ -1,5 +1,7 @@
 # EDA Heart Failure Data Project
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1--K9cnyL-ivUbvh7vQLJ0-FT6b7qRXwU)
+
 ## Overview
 
 This project is an Exploratory Data Analysis (EDA) implementation using the Heart Failure Clinical Records Dataset. It focuses on analyzing clinical variables associated with patient survival outcomes and identifying patterns through statistical summaries and visualizations.
